@@ -31,6 +31,7 @@ Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#s
 ## Notes on making it
 * The 3D model is still a work in progress. Add adhesive or cable management where needed and desired.
 * Printing this in one piece requires a big build platform. The only parts that should need supports are the ports at the back and the "crossbar" above the keyboard.
+* The "fins" at the upper end on the inside, nearest the top, help everything print without supports. The set of fins nearest the open face where the screen goes are only slightly connected, making them easy to cut/pull out after printing, should one need the room for cables, etc.
 * I printed with a monstrous 0.8 mm nozzle. It's a big print.
 * Matte White PLA filament is a really good match for the Raspberry Pi keyboard!
 * CAD model provided for your own development. The CAD model provides a few primitives that hopefully make fiddling and remixing a bit easier.

@@ -29,7 +29,7 @@ https://snapcraft.io/install/cool-retro-term/raspbian
 Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is the icing on the cake.
 
 ## Notes on making it
-* The 3D model is still a work in progress. Add adhesive or cable management where needed and desired.
+* The 3D model is still a work in progress. Add adhesive or cable management where needed and desired. (For example, there is no positive retention for the keyboard. A bit of adhesive should solve that.)
 * Printing this in one piece requires a big build platform. The only parts that should need supports are the ports at the back and the "crossbar" above the keyboard.
 * The "fins" at the upper end on the inside, nearest the top, help everything print without supports. The set of fins nearest the open face where the screen goes are only slightly connected, making them easy to cut/pull out after printing, should one need the room for cables, etc.
 * I printed with a monstrous 0.8 mm nozzle. It's a big print.

@@ -13,7 +13,7 @@ Ports on the back allows integrating a single power jack and a small USB hub for
 The result is a one-piece system with some real retro aesthetics; exactly what I wanted ever since coming across the Callisto-2 project (see below). 
 
 ## A few words about the keyboard
-The keyboard is either the Raspberry Pi 400, or the official Raspberry Pi USB Keyboard. Both have the same dimensions. Both will fit and have full access to the ports on the back. Both have a matte white finish that blends well if the case is printed in matte white PLA. [Check out this image for a fuller understanding](https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/1cfccf38-2211-4b9c-8e7b-8b4d5b4fb883).
+The keyboard is either the Raspberry Pi 400, or the official Raspberry Pi USB Keyboard. Both have (almost!) the same dimensions. (The official Pi keyboard will sit about 1mm higher at the front than the Pi400, but they both "fit".) Both allow full access to the ports on the back. Both have a matte white finish that blends well if the case is printed in matte white PLA. [Check out this image for a fuller understanding](https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/1cfccf38-2211-4b9c-8e7b-8b4d5b4fb883).
 
 ## Inspiration
 I was always very inspired by the Callisto-2 project, but I wanted a bigger screen. I wasn't satisfied by any of the existing thin or light HDMI displays; the big ones always had bezel designs that made them awkward to integrate into DIY cases, and/or connectors in awkward positions. The Elecrow CrowVision display solved both problems, and had a touchscreen integrated, to boot!

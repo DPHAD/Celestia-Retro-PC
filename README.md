@@ -26,9 +26,11 @@ Callisto-2's siblings: https://www.solarhardwarecomputers.com/
 Completing the look is the Cool Retro Term software. I adjusted the taskbar at the top of the Raspberry Pi desktop to auto-hide, and run cool-retro-term in fullscreen mode. Right-click while it's running to access more configuration (I think it looks best on this display by removing screen curvature and eliminating margin.) The only downside is it runs slowly on a Raspberry Pi 4, but it's worth it.
 https://snapcraft.io/install/cool-retro-term/raspbian
 
-Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is the icing on the cake.
+Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is [the icing on the cake](https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/9ee3ed6e-96f8-408c-9d77-863f1e0091e9).
+
 
 ## Notes on making it
+* I had to use a new spool of filament (different brand) 4/5 of the way into the print and the slight color change is kind of noticeable. Oh well!
 * The 3D model is still a work in progress. Add adhesive or cable management where needed and desired. (For example, there is no positive retention for the keyboard. A bit of adhesive should solve that.)
 * The USB hub at the back is just a separate unit I attached to the Raspberry Pi and glued in. It's handy to attach a USB stick, a mouse, etc.
 * Printing this in one piece requires a big build platform. The only parts that should need supports are the ports at the back and the "crossbar" above the keyboard.

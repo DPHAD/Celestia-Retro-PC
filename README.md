@@ -30,10 +30,11 @@ Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#s
 
 ## Notes on making it
 * The 3D model is still a work in progress. Add adhesive or cable management where needed and desired. (For example, there is no positive retention for the keyboard. A bit of adhesive should solve that.)
+* The USB hub at the back is just a separate unit I attached to the Raspberry Pi and glued in. It's handy to attach a USB stick, a mouse, etc.
 * Printing this in one piece requires a big build platform. The only parts that should need supports are the ports at the back and the "crossbar" above the keyboard.
 * The "fins" at the upper end on the inside, nearest the top, help everything print without supports. The set of fins nearest the open face where the screen goes are only slightly connected, making them easy to cut/pull out after printing, should one need the room for cables, etc.
-* I printed with a monstrous 0.8 mm nozzle. It's a big print.
+* I printed with a monstrous 0.8 mm nozzle. It's a big print. There's plenty of space on the inside.
 * Matte White PLA filament is a really good match for the Raspberry Pi keyboard!
 * CAD model provided for your own development. The CAD model provides a few primitives that hopefully make fiddling and remixing a bit easier.
-* At this time there is no means of screwing the display in to secure it. I suggest rolling your own solution to secure the screen to your personal comfort level.
-* The back panel is magnetically attached (in my version). There are holes provided.
+* At this time there is no means of screwing the display in to secure it. I suggest rolling your own solution to secure the screen to your personal comfort level. Personally, I made some custom little plastic tabs that I anchored in with E6000 glue, and those act as screw mounts. There is a 3D model of the assembly screw hole pattern, if you find it useful.
+* The back access panel is magnetically attached (in my version). There are holes provided for gluing small disc magnets.

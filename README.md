@@ -23,7 +23,7 @@ The Callisto-2: https://www.printables.com/model/65887-callisto-2-fully-printabl
 Callisto-2's siblings: https://www.solarhardwarecomputers.com/
 
 ## Cool Retro Terminal
-Completing the look is the Cool Retro Term software. I adjusted the taskbar at the top of the Raspberry Pi desktop to auto-hide, and run cool-retro-term in fullscreen mode.
+Completing the look is the Cool Retro Term software. I adjusted the taskbar at the top of the Raspberry Pi desktop to auto-hide, and run cool-retro-term in fullscreen mode. Right-click while it's running to access more configuration (I think it looks best on this display by removing screen curvature and eliminating margin.) The only downside is it runs slowly on a Raspberry Pi 4, but it's worth it.
 https://snapcraft.io/install/cool-retro-term/raspbian
 
 Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is the icing on the cake.

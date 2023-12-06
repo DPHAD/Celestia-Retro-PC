@@ -30,11 +30,11 @@ Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#s
 
 
 ## Notes on making it
-* I had to use a new spool of filament (different brand) 4/5 of the way into the print and the slight color change is kind of noticeable. Oh well!
+* I had to use a new spool of filament (different brand) 4/5 of the way into the print and the slight color change is kind of noticeable! Oh well!
 * The 3D model is still a work in progress. Add adhesive or cable management where needed and desired. (For example, there is no positive retention for the keyboard. A bit of adhesive should solve that.)
 * The USB hub at the back is just a separate unit I attached to the Raspberry Pi and glued in. It's handy to attach a USB stick, a mouse, etc.
 * Printing this in one piece requires a big build platform. The only parts that should need supports are the ports at the back and the "crossbar" above the keyboard.
-* The "fins" at the upper end on the inside, nearest the top, help everything print without supports. The set of fins nearest the open face where the screen goes are only slightly connected, making them easy to cut/pull out after printing, should one need the room for cables, etc.
+* The "fins" at the upper end on the inside, nearest the top, help everything print without supports. The set of fins nearest the open face where the screen goes are only slightly connected, making them easy to cut/pull out after printing to make room for cables. [I suggest removing at least this one](https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/8e2114d2-f115-4b87-bd76-186c321ac375) to make room for the cables connected to the display. The other two fins (the "back" ones) are much more solidly connected and you'll probably need a rotary tool to remove *those*.
 * I printed with a monstrous 0.8 mm nozzle. It's a big print. There's plenty of space on the inside.
 * Matte White PLA filament is a really good match for the Raspberry Pi keyboard!
 * CAD model provided for your own development. The CAD model provides a few primitives that hopefully make fiddling and remixing a bit easier.

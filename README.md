@@ -1,7 +1,7 @@
 <img src="https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/75a2acb6-9124-4564-93f9-c229a80a8da7" height=320><img src="https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/144b4d59-ff8d-47ed-b714-08328db7f169" height=320>
 
 # Celestia DIY Retro PC
-The **Celestia** is a retro styled, one-piece PC using a **Raspberry Pi** (Pi400 or SBC + Official Pi keyboard). Currently designed around the **Elecrow CrowVision 11.6"** display, which is the only display that really matched what I was going for. As a bonus, it integrates a touchscreen, meaning a mouse is not necessary and helps preserve the one-piece aesthetic!
+The **Celestia** is a retro styled, one-piece PC using a **Raspberry Pi** (Pi400 or SBC + Official Pi keyboard). Currently designed around the [**Elecrow CrowVision 11.6"**](https://www.elecrow.com/wiki/index.php?title=CrowVision_11.6%27%27_Capacitive_Touch_Screen_Portable_HD_1366*768_IPS_LCD_Display) display, which is the only display that really matched what I was going for. As a bonus, it integrates a touchscreen, meaning a mouse is not necessary and helps preserve the one-piece aesthetic!
 
 ## What is it?
 This is a 3D printable enclosure (a bit of a work in progress) that accommodates a display (11.6" Elecrow CrowVision display with touchscreen) and a Raspberry Pi, although any SBC would work. This design is highly flexible about the Pi in particular. 

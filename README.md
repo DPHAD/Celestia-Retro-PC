@@ -28,6 +28,15 @@ https://snapcraft.io/install/cool-retro-term/raspbian
 
 Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is [the icing on the cake](https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/9ee3ed6e-96f8-408c-9d77-863f1e0091e9).
 
+## Sample AI Chat Code
+My code for making the chat work is provided, it is commented in a way that I hope will help people make sense of what goes into something like this. It requires Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) and it also requires an OpenAI API key (because that's what simpleaichat interfaces with on the back end at this writing.)
+
+The code has a neat example in it of using a cool feature called logits_bias to effectively evaluate whether the user is attempting to end the chat, and to do so in a programmatic & deterministic way. (The "quit" command always works but the user could say for example "ok bye" and the AI will dutifully terminate the chat.) 
+
+**This is actually a *somewhat* more complex problem** than just asking the LLM "does the user want to quit y/n?" (which only moves the problem) and I hope my sample function helps people make sense of it.
+
+https://github.com/DPHAD/Celestia-Retro-PC/tree/main/Code
+
 
 ## Notes on making it
 * I had to use a new spool of filament (different brand) 4/5 of the way into the print and the slight color change is kind of noticeable! Oh well!

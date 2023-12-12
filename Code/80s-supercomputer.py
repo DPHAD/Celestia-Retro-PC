@@ -181,7 +181,7 @@ if prev_chat:
     slowprint(" ACTIVE", 0.1)
 
     # Create an instance of simpleaichat (set up in a consistent style) to summarize previous discussion.
-    sys = "Within the provided XML tags is a history of the previous discussion. Provide a high-level summary of the user's past questions, about 25 words in length.\n\n"
+    sys = "Within the provided XML tags is a history of the previous discussion. Using this history, provide a terse, high-level characterization of the user from the perspective of an 80's supercomputer, about 25 words in length.\n\n"
     prompt = "<history>\n" + F"{prev_chat}" + "</history>"
     summarizer = AIChat(system=system_msg, console=False, api_key=key)
     r = summarizer(sys + prompt)

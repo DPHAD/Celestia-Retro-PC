@@ -26,7 +26,9 @@ Callisto-2's siblings: https://www.solarhardwarecomputers.com/
 Completing the look is the Cool Retro Term software. I adjusted the taskbar at the top of the Raspberry Pi desktop to auto-hide, and run cool-retro-term in fullscreen mode. Right-click while it's running to access more configuration (I think it looks best on this display by removing screen curvature and eliminating margin.) The only downside is it runs slowly on a Raspberry Pi 4, but it's worth it.
 https://snapcraft.io/install/cool-retro-term/raspbian
 
-Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is [the icing on the cake](https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/9ee3ed6e-96f8-408c-9d77-863f1e0091e9).
+## Chat With an 80's Supercomputer
+Launching Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) to create an 80s AI to interact with via the retro terminal is the icing on the cake.
+<img src="https://github.com/DPHAD/Celestia-Retro-PC/assets/28654887/9ee3ed6e-96f8-408c-9d77-863f1e0091e9">
 
 ## Sample AI Chat Code
 My code for making the chat work is provided, it is commented in a way that I hope will help people make sense of what goes into something like this. It requires Max Woolf's [simpleaichat](https://github.com/minimaxir/simpleaichat#simpleaichat) and it also requires an OpenAI API key (because that's what simpleaichat interfaces with on the back end at this writing.)
